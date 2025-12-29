@@ -5,6 +5,7 @@ langchain-core
 langgraph
 langchain-groq
 duckduckgo-search
+ddgs
 wikipedia
 arxiv
 pydantic
